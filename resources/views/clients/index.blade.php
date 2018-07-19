@@ -6,7 +6,7 @@
     <div class="row">
         @forelse ($clients as $client)
             <div class="col-md-4 my-3">
-                @include('clients.card')
+                @include('clients.card', ['actions' => ['view'], 'maxheight' => '120'])
             </div>
         @empty
             <div class="col-md-4">

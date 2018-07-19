@@ -44,4 +44,7 @@
         <div class="text-danger">{{ $errors->first('photo') }}</div>
     @endif
 </div>
-<button type="submit" class="btn btn-primary">Submit</button>
+<div class="text-right">
+    <a href="javascript:history.go(-1)" class="btn btn-info btn-sm">Back</a>
+    <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+</div>
