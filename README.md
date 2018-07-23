@@ -13,11 +13,15 @@ Envie o sistema para o Github juntamente com o modelo relacional e posteriorment
 
 ## Instalação
 
-1. git clone
-2. composer install
-3. edit .env
-4. php artisan migrate
-5. php artisan serve
+1. git clone git@github.com:willystadnick/essentia-test.git
+2. cd essentia-test
+3. composer install
+4. cp .env.example .env
+5. vi .env (DB_)
+6. mysql -u(user) \[-p\] -e "create database essentia_test;"
+7. php artisan migrate
+8. php artisan key:generate
+9. php artisan serve
 
 ## Dúvidas e comentários
 
