@@ -8,3 +8,17 @@ Crie, conforme seus conhecimentos, um pequeno sistema de cadastro de clientes, c
 
 ## Entrega
 Envie o sistema para o Github juntamente com o modelo relacional e posteriormente envie um e-mail com o link para fernando@essentia.com.br e nina@essentia.com.br.
+
+-----
+
+## Instalação
+
+1. git clone
+2. composer install
+3. edit .env
+4. php artisan migrate
+5. php artisan serve
+
+## Dúvidas e comentários
+
+willy.stadnick@gmail.com
