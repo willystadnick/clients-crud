@@ -7,4 +7,4 @@ Crie, conforme seus conhecimentos, um pequeno sistema de cadastro de clientes, c
 - Fique a vontade para usar qualquer framework que você possua conhecimento, como Laravel, Zend Framework, Symphony, SpringMVC...
 
 ## Entrega
-Envie o sistema para o Github juntamente com o modelo relacional e posteriormente envie um e-mail com o link para fernando@essentia.com.br e nina@essentia.com.br.
+Envie o sistema para o Github juntamente com o modelo relacional e posteriormente envie um e-mail com o link para fernando@anon.mail e nina@anon.mail.
