@@ -11,8 +11,8 @@ Same as [Laravel 5.6](https://laravel.com/docs/5.6/installation#server-requireme
 
 ## Installation
 
-1. Clone this repository `git clone git@github.com:willystadnick/secret001-test.git`
-1. Enter the project folder `cd secret001-test`
+1. Clone this repository `git clone git@github.com:willystadnick/clients-crud.git`
+1. Enter the project folder `cd clients-crud`
 1. Install dependencies `composer install`
 1. Copy environment file template `cp .env.example .env`
 1. Generate application key `php artisan key:generate`
