@@ -8,21 +8,3 @@ Crie, conforme seus conhecimentos, um pequeno sistema de cadastro de clientes, c
 
 ## Entrega
 Envie o sistema para o Github juntamente com o modelo relacional e posteriormente envie um e-mail com o link para fernando@essentia.com.br e nina@essentia.com.br.
-
------
-
-## Instalação
-
-1. git clone git@github.com:willystadnick/essentia-test.git
-2. cd essentia-test
-3. composer install
-4. cp .env.example .env
-5. vi .env (DB_)
-6. mysql -u(user) \[-p\] -e "create database essentia_test;"
-7. php artisan migrate
-8. php artisan key:generate
-9. php artisan serve
-
-## Dúvidas e comentários
-
-willy.stadnick@gmail.com
